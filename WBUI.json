@@ -93,6 +93,8 @@ Custom Spawns:
       - Light pet spawns in castle crouch cave
     
     ",
+    "Tab1Text2": "",
+    "Tab1Text3": "",
     "Tab2Text1": "
     Rules: 
     
@@ -104,9 +106,11 @@ Custom Spawns:
 
       Rule 1.3 - No cave building, this is a sorta classic ark experience
 
-      Rule 1.4 - No exploits, don't be a little shit",
-    "Tab3Text1": "
-    Commands:
+      Rule 1.4 - No exploits, don't be a little shit
+",
+    "Tab2Text2": "",
+    "Tab2Text3": "",
+    "Tab3Text1": "Commands:
     
       /setorp - Sets your ORP, you are limited to 1
       /showorp - Shows the range of your ORP
@@ -118,12 +122,7 @@ Custom Spawns:
       /online - See who is online
       /hidetips - Hide the tips at the top of your screen
       /showtips - visa versa
-    
     ",
-    "Tab1Text2": "",
-    "Tab2Text2": "",
-    "Tab2Text3": "",
-    "Tab1Text3": "",
     "Tab3Text2": "",
     "Tab3Text3": "",
     "Tab4Text1": "",
