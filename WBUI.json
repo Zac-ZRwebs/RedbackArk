@@ -93,7 +93,7 @@ Custom Spawns:
       - Light pet spawns in castle crouch cave
     
     ",
-    "Tab1Text2": "
+    "Tab2Text1": "
     Rules: 
     
       Rule 1.0 - Be a shit cunt, PVP everywhere there are no PVP rules. Fight anyone you see
@@ -105,7 +105,7 @@ Custom Spawns:
       Rule 1.3 - No cave building, this is a sorta classic ark experience
 
       Rule 1.4 - No exploits, don't be a little shit",
-    "Tab1Text3": "
+    "Tab3Text1": "
     Commands:
     
       /setorp - Sets your ORP, you are limited to 1
@@ -120,10 +120,10 @@ Custom Spawns:
       /showtips - visa versa
     
     ",
-    "Tab2Text1": "",
+    "Tab1Text2": "",
     "Tab2Text2": "",
     "Tab2Text3": "",
-    "Tab3Text1": "",
+    "Tab1Text3": "",
     "Tab3Text2": "",
     "Tab3Text3": "",
     "Tab4Text1": "",
