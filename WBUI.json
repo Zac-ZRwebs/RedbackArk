@@ -56,43 +56,37 @@
     "Tab5Title1": "",
     "Tab5Title2": "",
     "Tab5Title3": "",
-    "Tab1Text1": "Welcome to Redback Ark Duo 10x Season 1
-    
-    Please Join our discord below :)
-    
-    Rates:
-      Harvest: 20x
-      Tame: 20x
-      Raise: 15x
-      Imprint: 20x
-      Weight: Unlimited
-      Movement Speed capped at 190%
-    
-    Useful Commands:
-      /help - Tells you all the commands you can use
-      /rename - Renames the player
-      /suicide - Kurt Cobain yourself
-    
-    Mod List:
-      Soul Traps
-      Solo Farm
-      SuperStructures
-      AwesomeSpyglass
-      Rare Sightings
-      Meat Spoiler
-      SimpleSpawns
+    "Tab1Text1": " Redback Ark is a Duo server designed for competitive PVP, we have combined the best aspects from all of ark into one server where there is no cave building or rathole building for a classic ark experience.
+
+Rates:
+    Harvest: 10x
+    Tame: 10x
+    Raise: 15x
+    Imprint: 20x
+    Weight: Unlimited
+    Movement Speed capped at 190%
+
+Mod List:
+    Soul Traps
+    Solo Farm
+    SuperStructures
+    AwesomeSpyglass
+    Rare Sightings
+    Meat Spoiler
+    SimpleSpawns
+    WBUI
 
 Custom Spawns:
-      - Lava Golem spawns every hour in crouch cave
-      - OSDs and Element Veins spawn in the desert
-      - Keratin bones spawn in the east desert
-      - Summoner in the ice castle to trade artifacts for drops
-      - Desmo's spawn in the north desert
-      - Bloodstalkers spawn in the redwoods
-      - Aberration metal in ship cave
-      - Light pet spawns in castle crouch cave
-    
-    ",
+    - Lava Golem spawns every hour in crouch cave
+    - OSDs and Element Veins spawn in the desert
+    - Keratin bones spawn in the East desert
+    - Summoner in the ice castle to trade artifacts for drops
+    - Desmos spawn in the East desert
+    - Bloodstalkers spawn in the redwoods
+
+The shop and kits are currently being worked on
+
+Please report any bugs or any help needed via a ticket in the discord, good luck and good arking",
     "Tab1Text2": "",
     "Tab1Text3": "",
     "Tab2Text1": "
@@ -122,6 +116,7 @@ Custom Spawns:
       /online - See who is online
       /hidetips - Hide the tips at the top of your screen
       /showtips - visa versa
+      /linkDiscord - Use the services tab in discord to link your account, you will receive a code to use
     ",
     "Tab3Text2": "",
     "Tab3Text3": "",
