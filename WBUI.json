@@ -4,7 +4,7 @@
     "ButtonTxt2": "Rules",
     "ButtonTxt3": "Commands",
     "ButtonTxt4": "Shop",
-    "ButtonTxt5": "",
+    "ButtonTxt5": "Member Perks",
     "LinkButtonTxt1": "Discord",
     "LinkButtonTxt2": "Website",
     "LinkButtonTxt3": "",
@@ -53,7 +53,7 @@
     "Tab4Title1": "Redback Ark Shop",
     "Tab4Title2": "",
     "Tab4Title3": "",
-    "Tab5Title1": "",
+    "Tab5Title1": "Perks for becomming a Member",
     "Tab5Title2": "",
     "Tab5Title3": "",
     "Tab1Text1": " Redback Ark is a Duo server designed for competitive PVP, we have combined the best aspects from all of ark into one server where there is no cave building or rathole building for a classic ark experience.
@@ -126,13 +126,27 @@ Please report any bugs or any help needed via a ticket in the discord, good luck
       /showtips - visa versa
       /linkDiscord - Use the kickme tab in discord to link your account, you will receive a code to use. Make sure you hit Give Role to get the verified player role
       /rarelist - Use this to see current rare creatures
+      /neuter - Neuters the dino you are looking at
+      /neuterdinos - Neuters all dinos in your area
     ",
     "Tab3Text2": "",
     "Tab3Text3": "",
     "Tab4Text1": "Hit F3 for the shop!",
     "Tab4Text2": "",
     "Tab4Text3": "",
-    "Tab5Text1": "",
+    "Tab5Text1": "
+    You can become a member by visiting the website button below.
+    
+    Members will get the following:
+    
+    - /random: gives random colors to the dino you are looking at
+    - /randombomb: gives random colors to the dinos in your area
+    
+    Access to VIP giveaways and VIP starter kits available after Day 3
+    Extra points per 30mins for the shop
+    Whitelist into the server
+    
+    ",
     "Tab5Text2": "",
     "Tab5Text3": ""
 }
