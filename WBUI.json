@@ -70,25 +70,19 @@ Mod List:
     Soul Traps
     Solo Farm
     SuperStructures
-    AwesomeSpyglass
-    Rare Sightings
+    Bit2ouk's Binos
     Meat Spoiler
     SimpleSpawns
     WBUI
 
 Custom Spawns:
-    - Lava Golem spawns every hour in crouch cave
-    - OSDs and Element Veins spawn in the desert
-    - Keratin bones spawn in the East desert
-    - Summoner in the ice castle to trade artifacts for drops
+    - Lava Golem spawns every hour in Lost Island crouch cave
+    - OSDs and Element Veins spawn in the Lost Island desert
     - Desmos spawn in the East desert
-    - Bloodstalkers spawn in the redwoods
     - Mutagel is at 20 80
-    - Polymer spawns in the redwoods cave
-    - Plant Z plants are near the mutagel
     - Velos spawn in many places
+    - Bloodstalkers and Gachas spawn in Ab Fertile Lake
 
-The shop and kits are currently being worked on
 There are unlimited Grapples, Bolas and parachutes.
 
 Please report any bugs or any help needed via a ticket in the discord, good luck and good arking
@@ -114,7 +108,6 @@ Please report any bugs or any help needed via a ticket in the discord, good luck
       /setorp - Sets your ORP, you are limited to 1
       /showorp - Shows the range of your ORP
       /removeorp - self explanitory
-      /shame - Check if a tribe is offline while looking at a structure
       /help - Tells you all the commands you can use
       /rename - Renames the player
       /suicide - Kurt Cobain yourself
@@ -123,9 +116,9 @@ Please report any bugs or any help needed via a ticket in the discord, good luck
       /hidetips - Hide the tips at the top of your screen
       /showtips - visa versa
       /linkDiscord - Use the kickme tab in discord to link your account, you will receive a code to use. Make sure you hit Give Role to get the verified player role
-      /rarelist - Use this to see current rare creatures
       /neuter - Neuters the dino you are looking at
       /neuterdinos - Neuters all dinos in your area
+    
     ",
     "Tab3Text2": "",
     "Tab3Text3": "",
@@ -141,8 +134,9 @@ Please report any bugs or any help needed via a ticket in the discord, good luck
     - /randombomb: gives random colors to the dinos in your area
     
     Access to VIP giveaways and VIP starter kits available after Day 3
-    Extra points per 30mins for the shop
+    Extra points per 30mins for the shop depending on tier
     Whitelist into the server
+    Entry to VIP Givevaways
     
     ",
     "Tab5Text2": "",
