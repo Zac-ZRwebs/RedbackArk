@@ -1,5 +1,5 @@
 {
-    "ServerName": "Redback Ark Duo 10x Season 1",
+    "ServerName": "Redback Ark Duo 10x Season 2",
     "ButtonTxt1": "Welcome",
     "ButtonTxt2": "Rules",
     "ButtonTxt3": "Commands",
@@ -58,6 +58,8 @@
     "Tab5Title3": "",
     "Tab1Text1": "Redback Ark is a Duo server designed for competitive PVP, we have combined the best aspects from all of ark into one server where we can all have fun with our mates, please enjoy all the custom things we have added!
 
+    Lab Cave is off limits, no building as the lava golem spawns in there
+    
 Rates:
     Harvest: 10x
     Tame: 10x
@@ -76,12 +78,7 @@ Mod List:
     WBUI
 
 Custom Spawns:
-    - Lava Golem spawns every hour in Lost Island crouch cave
-    - OSDs and Element Veins spawn in the Lost Island desert
-    - Desmos spawn in the East desert
-    - Mutagel is at 20 80
-    - Velos spawn in many places
-    - Bloodstalkers and Gachas spawn in Ab Fertile Lake
+    - Lava Golem spawns every hour in Lab Cave
 
 There are unlimited Grapples, Bolas and parachutes.
 
